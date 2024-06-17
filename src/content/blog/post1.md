@@ -2,7 +2,7 @@
 title: "Beyond Bloom’s 2 Sigma Problem: Data-Driven Approaches for Improving Student Success"
 description: "Photo by Mika Baumeister / Unsplash"
 pubDate: "Feb 11 2023"
-heroImage: "/minecraft.jpg"
+heroImage: "public/minecraft.jpg"
 tags: ["tokio"]
 ---
 
